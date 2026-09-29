@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-xxxxxxxxxxxxxxxxxxxxxX
+Ejercicio Basico - Mi primer Circuito Integrado - Semana UCU 2026
 
 ## How to test
 
